@@ -1,7 +1,7 @@
 importScripts("cache-polyfill.js")
 
 var PREFIX = "font_icon"
-var CACHE_VERSION = 'font_icon-v0.0.1';
+var CACHE_VERSION = 'font_icon-v0.0.2';
 var CACHE_FILES = [
     "./manifest.json",
     "./lib.js", 
